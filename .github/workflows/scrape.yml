@@ -1,0 +1,23 @@
+name: Scraper Automatico 24/7
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm ci || npm install
+      - run: node scraper.js
+      - run: |
+          git config user.name "Bot Scraper"
+          git config user.email "bot@github.com"
+          git add datos.json
+          git commit -m "Actualizacion de datos [skip ci]" || exit 0
+          git push

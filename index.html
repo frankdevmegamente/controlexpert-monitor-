@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Control Expert - Stock y Precios</title>
+<style>
+body{font-family:system-ui,sans-serif;padding:1.5rem;background:#f4f4f9;margin:0}
+header{max-width:1000px;margin:auto;display:flex;gap:1rem;align-items:center;flex-wrap:wrap}
+.card{background:#fff;padding:1rem;border-radius:10px;box-shadow:0 2px 6px rgba(0,0,0,.1);max-width:1000px;margin:1rem auto}
+table{width:100%;border-collapse:collapse;font-size:.9rem}
+th,td{padding:.5rem;border-bottom:1px solid #eee;text-align:left}
+img{width:48px;height:48px;object-fit:cover;border-radius:6px}
+.badge{padding:.15rem .5rem;border-radius:20px;font-size:.75rem}
+.ok{background:#d4edda}.out{background:#f8d7da}
+input,select{padding:.5rem;border-radius:8px;border:1px solid #ccc}
+</style>
+</head>
+<body>
+<header>
+<h2>Control Expert - Productos y Stock</h2>
+<input id="q" placeholder="Buscar producto..." style="flex:1;min-width:200px">
+<select id="f"><option value="todos">Todos</option><option value="stock">En stock</option><option value="agotado">Agotados</option></select>
+<small id="fecha"></small>
+</header>
+<div class="card"><table><thead><tr><th></th><th>Producto</th><th>Precio</th><th>Stock</th><th>Estado</th></tr></thead><tbody id="tb"><tr><td colspan="5">Cargando...</td></tr></tbody></table></div>
+<script>
+let all=[];
+fetch('./datos.json').then(r=>r.json()).then(d=>{
+document.getElementById('fecha').innerText=`${d.total} productos | Actualizado: ${d.actualizadoEl}`;
+all=d.productos;render();
+});
+function render(){
+const q=document.getElementById('q').value.toLowerCase();
+const f=document.getElementById('f').value;
+const rows=all.filter(p=>(p.titulo.toLowerCase().includes(q))&&(f==='todos'||(f==='stock'?p.disponible:!p.disponible))).slice(0,500);
+document.getElementById('tb').innerHTML=rows.map(p=>`<tr><td>${p.imagen?`<img src="${p.imagen}" loading="lazy">`:''}</td><td><a href="${p.url}" target="_blank">${p.titulo}</a></td><td>${p.precio!=null?'$'+p.precio: '-'}</td><td>${p.stock!=null?p.stock:'—'}</td><td><span class="badge ${p.disponible?'ok':'out'}">${p.disponible?'En stock':'Agotado'}</span></td></tr>`).join('')||'<tr><td colspan="5">Sin resultados</td></tr>';
+}
+document.getElementById('q').oninput=render;document.getElementById('f').onchange=render;
+</script>
+</body>
+</html>
