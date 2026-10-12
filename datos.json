@@ -1,5 +1,5 @@
 {
-  "actualizadoEl": "2026-10-12T10:36:08.851Z",
+  "actualizadoEl": "2026-10-12T20:13:28.018Z",
   "total": 1337,
   "productos": [
     {
@@ -6167,7 +6167,7 @@
       "handle": "ce-nexontrol-para-mirage-aire-acondicionado",
       "url": "https://controlexpert.com.mx/products/ce-nexontrol-para-mirage-aire-acondicionado",
       "precio": 100,
-      "disponible": true,
+      "disponible": false,
       "stock": null,
       "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-NEX_2.jpg?v=1749058274",
       "tipo": "Control Remoto",
