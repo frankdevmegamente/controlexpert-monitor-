@@ -1,5 +1,5 @@
 {
-  "actualizadoEl": "2026-10-15T14:50:04.982Z",
+  "actualizadoEl": "2026-10-15T19:00:44.729Z",
   "total": 1337,
   "productos": [
     {
@@ -2064,7 +2064,7 @@
       "handle": "control-compatible-con-sky-hd-vetv-rc10m",
       "url": "https://controlexpert.com.mx/products/control-compatible-con-sky-hd-vetv-rc10m",
       "precio": 100,
-      "disponible": true,
+      "disponible": false,
       "stock": null,
       "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-RC10M1.jpg?v=1749057354",
       "tipo": "Control Remoto",
@@ -7368,7 +7368,7 @@
       "precio": 190,
       "disponible": false,
       "stock": null,
-      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-A84_11_bf2f3328-9634-41ec-8752-97c3c2c7a5e9.jpg?v=1749058504",
+      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-A84_1_0dbd22a1-ed4a-4719-88fc-77871b8d5f45.jpg?v=1749058504",
       "tipo": "Control Remoto",
       "vendor": "BLUX"
     },
