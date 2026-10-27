@@ -1,7 +1,18 @@
 {
-  "actualizadoEl": "2026-10-27T16:23:51.223Z",
-  "total": 1337,
+  "actualizadoEl": "2026-10-27T21:12:17.505Z",
+  "total": 1338,
   "productos": [
+    {
+      "titulo": "Cargador de Pared Control Expert con 2 Puertos",
+      "handle": "cargador-de-pared-control-expert-con-2-puertos",
+      "url": "https://controlexpert.com.mx/products/cargador-de-pared-control-expert-con-2-puertos",
+      "precio": 99,
+      "disponible": true,
+      "stock": null,
+      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-CCU2-04.png?v=1793128045",
+      "tipo": "",
+      "vendor": "Control Expert MX"
+    },
     {
       "titulo": "Extensión Eléctrica Uso Rudo 10 Metros Naranja Calibre 16 AWG, Cable Resistente con Clavija y Contacto Reforzados",
       "handle": "extension-electrica-uso-rudo-10-metros-naranja-calibre-16-awg-cable-resistente-con-clavija-y-contacto-reforzados",
@@ -1162,7 +1173,7 @@
       "handle": "adaptador-inalambrico-2-en-1-para-carplay-y-android-auto-convierte-tu-coche-de-cable-a-bluetooth-wi-fi",
       "url": "https://controlexpert.com.mx/products/adaptador-inalambrico-2-en-1-para-carplay-y-android-auto-convierte-tu-coche-de-cable-a-bluetooth-wi-fi",
       "precio": 499,
-      "disponible": false,
+      "disponible": true,
       "stock": null,
       "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-APLAYBK.jpg?v=1772063084",
       "tipo": "",
@@ -1778,7 +1789,7 @@
       "handle": "combo-teclado-y-mouse-alambrico-usb-con-diseno-moderno-de-marco-estrecho-alta-velocidad-de-respuesta-compatible-con-windows-8-10-11-y-android-ideal-para-oficina-o-estudio",
       "url": "https://controlexpert.com.mx/products/combo-teclado-y-mouse-alambrico-usb-con-diseno-moderno-de-marco-estrecho-alta-velocidad-de-respuesta-compatible-con-windows-8-10-11-y-android-ideal-para-oficina-o-estudio",
       "precio": 329,
-      "disponible": false,
+      "disponible": true,
       "stock": null,
       "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-WD680_MOUSE_Y_TECLADO_ALAMBRICO_8.jpg?v=1775592253",
       "tipo": "",
@@ -4231,7 +4242,7 @@
       "handle": "ce-at14-antena-hdon-base-magnetica",
       "url": "https://controlexpert.com.mx/products/ce-at14-antena-hdon-base-magnetica",
       "precio": 129,
-      "disponible": false,
+      "disponible": true,
       "stock": null,
       "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/AntenadeinteriorHDconBaseMagneticayconCableCoaxialAT14_2.jpg?v=1752165459",
       "tipo": "Hogar",
@@ -5034,7 +5045,7 @@
       "handle": "ce-l2024ontrol-para-lg-ultra-2024",
       "url": "https://controlexpert.com.mx/products/ce-l2024ontrol-para-lg-ultra-2024",
       "precio": 100,
-      "disponible": false,
+      "disponible": true,
       "stock": null,
       "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-L2024_3.jpg?v=1749058056",
       "tipo": "Control Remoto",
@@ -5969,7 +5980,7 @@
       "handle": "ce-s13pontrol-para-samsung-4k-smart-tv",
       "url": "https://controlexpert.com.mx/products/ce-s13pontrol-para-samsung-4k-smart-tv",
       "precio": 100,
-      "disponible": false,
+      "disponible": true,
       "stock": null,
       "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-S13P_9.jpg?v=1749058234",
       "tipo": "Control Remoto",
@@ -10206,7 +10217,7 @@
       "precio": 190,
       "disponible": false,
       "stock": null,
-      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-R90_11.jpg?v=1749059157",
+      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-R90_1.jpg?v=1749059158",
       "tipo": "Control Remoto",
       "vendor": "ATVIO"
     },
@@ -11438,7 +11449,7 @@
       "precio": 100,
       "disponible": true,
       "stock": null,
-      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-T75_11_27d3751a-19a3-448d-a926-407e4e8570a7.jpg?v=1749059374",
+      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-T75_1_442daaa6-abb9-49f3-9b35-9eccc026bbd5.jpg?v=1749059375",
       "tipo": "Control Remoto",
       "vendor": "Vios"
     },
@@ -11460,7 +11471,7 @@
       "precio": 100,
       "disponible": false,
       "stock": null,
-      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-A84_11_b9206f17-a0e5-4b62-8b3c-8adb844b4aaf.jpg?v=1749059378",
+      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-A84_1_6ab30155-a111-4e7a-b6a2-67a05e182b5c.jpg?v=1749059378",
       "tipo": "Control Remoto",
       "vendor": "Vios"
     },
@@ -11504,7 +11515,7 @@
       "precio": 100,
       "disponible": true,
       "stock": null,
-      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-T28_11.jpg?v=1749059386",
+      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-T28_1.jpg?v=1749059386",
       "tipo": "Control Remoto",
       "vendor": "TOSHIBA"
     },
@@ -11592,7 +11603,7 @@
       "precio": 100,
       "disponible": false,
       "stock": null,
-      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-R90_11_5085f122-9bc7-48a1-a265-83903df6921d.jpg?v=1749059411",
+      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-R90_1_7fe4f8b2-6d7a-40cc-a93e-d7627cbf95ec.jpg?v=1749059411",
       "tipo": "Control Remoto",
       "vendor": "Spectra"
     },
@@ -11647,7 +11658,7 @@
       "precio": 100,
       "disponible": true,
       "stock": null,
-      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-SR10_11_c02622a1-29f6-443d-9e34-ec813ab5f222.jpg?v=1749059419",
+      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-SR10_1_78ec7a05-9ade-419b-a7af-aacb3630c7a7.jpg?v=1749059419",
       "tipo": "Control Remoto",
       "vendor": "Sansui"
     },
@@ -11735,7 +11746,7 @@
       "precio": 100,
       "disponible": true,
       "stock": null,
-      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-SR10_11.jpg?v=1749059435",
+      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-SR10_1.jpg?v=1749059435",
       "tipo": "Control Remoto",
       "vendor": "RCA"
     },
@@ -12252,7 +12263,7 @@
       "precio": 100,
       "disponible": false,
       "stock": null,
-      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-A84_11_74c286b8-ea02-496b-83ab-09a245e59a4b.jpg?v=1749059523",
+      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-A84_1_d29d32bf-255b-4e0a-a37b-ff954165a241.jpg?v=1749059523",
       "tipo": "Control Remoto",
       "vendor": "JVC"
     },
@@ -12296,7 +12307,7 @@
       "precio": 100,
       "disponible": false,
       "stock": null,
-      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-A84_11_a3e12776-094e-473d-a5f2-457bab8e57df.jpg?v=1749059531",
+      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-A84_1_f5f22fca-d98a-41aa-a68a-2b0599ab517e.jpg?v=1749059532",
       "tipo": "Control Remoto",
       "vendor": "Hyundai"
     },
@@ -12406,7 +12417,7 @@
       "precio": 100,
       "disponible": true,
       "stock": null,
-      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-T75_11_3ae5a150-0ad0-4d4e-b3cc-6bce28638b0e.jpg?v=1749059553",
+      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-T75_1_35afeb3c-d961-4bfc-a9ce-c29a4bc0abf6.jpg?v=1749059553",
       "tipo": "Control Remoto",
       "vendor": "Harmontec"
     },
@@ -12428,7 +12439,7 @@
       "precio": 100,
       "disponible": false,
       "stock": null,
-      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-A84_11_53435920-2a9b-4811-9738-0af523145d25.jpg?v=1749059558",
+      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-A84_1_60b3eded-b4b3-400f-91d5-73d97f2948ec.jpg?v=1749059558",
       "tipo": "Control Remoto",
       "vendor": "Ghia"
     },
@@ -12868,7 +12879,7 @@
       "precio": 190,
       "disponible": false,
       "stock": null,
-      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-R90_11_37a524dc-2be3-4b21-a884-ff2a1a987107.jpg?v=1749059648",
+      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-R90_1_cc693081-7503-4dfb-8306-d5ee1160ab1c.jpg?v=1749059648",
       "tipo": "Control Remoto",
       "vendor": "Sansui"
     },
@@ -13011,7 +13022,7 @@
       "precio": 190,
       "disponible": false,
       "stock": null,
-      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-A84_11_2042861d-8376-44d4-bac1-aa0d19dcb09c.jpg?v=1749059673",
+      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-A84_1_4469a838-ce12-46a9-8c5a-c879e6882e52.jpg?v=1749059673",
       "tipo": "Control Remoto",
       "vendor": "Sanyo"
     },
@@ -13022,7 +13033,7 @@
       "precio": 190,
       "disponible": false,
       "stock": null,
-      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-A84_11.jpg?v=1749059675",
+      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-A84_1.jpg?v=1749059675",
       "tipo": "Control Remoto",
       "vendor": "ATVIO"
     },
@@ -13110,7 +13121,7 @@
       "precio": 100,
       "disponible": true,
       "stock": null,
-      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-T75_11_484d7fe3-c85b-4a21-b166-ed4c302cb357.jpg?v=1749059694",
+      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-T75_1_620b7970-6ee1-4961-b9db-c663a5da827e.jpg?v=1749059694",
       "tipo": "Control Remoto",
       "vendor": "Seiki"
     },
@@ -13121,7 +13132,7 @@
       "precio": 100,
       "disponible": false,
       "stock": null,
-      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-R90_11_8762f333-adb2-4cd9-b4d0-8a2289b14175.jpg?v=1749059695",
+      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-R90_1_35bf1239-4b0e-415f-ae13-38297be66d07.jpg?v=1749059696",
       "tipo": "Control Remoto",
       "vendor": "RCA"
     },
@@ -13231,7 +13242,7 @@
       "precio": 190,
       "disponible": true,
       "stock": null,
-      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-T75_11.jpg?v=1749059714",
+      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-T75_1.jpg?v=1749059714",
       "tipo": "Control Remoto",
       "vendor": "ATVIO"
     },
@@ -13240,7 +13251,7 @@
       "handle": "ce-mas-masajeador-de-mano-relajantescular",
       "url": "https://controlexpert.com.mx/products/ce-mas-masajeador-de-mano-relajantescular",
       "precio": 79,
-      "disponible": false,
+      "disponible": true,
       "stock": null,
       "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-MAS_2.jpg?v=1749059716",
       "tipo": "Hogar",
@@ -13550,7 +13561,7 @@
       "precio": 190,
       "disponible": true,
       "stock": null,
-      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-T75_11_0193e465-d0af-4ec5-8e9f-eb31dea8b8cb.jpg?v=1749059769",
+      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-T75_1_48cd9324-cbc0-479d-aa35-b90ff0e2a900.jpg?v=1749059770",
       "tipo": "Control Remoto",
       "vendor": "Cobia"
     },
@@ -14032,7 +14043,7 @@
       "handle": "ce-s188ontrol-para-samsung-smart-tv",
       "url": "https://controlexpert.com.mx/products/ce-s188ontrol-para-samsung-smart-tv",
       "precio": 100,
-      "disponible": false,
+      "disponible": true,
       "stock": null,
       "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-S188_1.jpg?v=1749059858",
       "tipo": "Control Remoto",
@@ -14452,7 +14463,7 @@
       "precio": 100,
       "disponible": true,
       "stock": null,
-      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-T75_11_9eee657e-d6c3-4599-b195-1e5e35b8c6ca.jpg?v=1749059941",
+      "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-T75_1_8c11ce46-2271-4570-b41e-5eb77c320c16.jpg?v=1749059941",
       "tipo": "Control Remoto",
       "vendor": "Toshiba"
     },
