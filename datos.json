@@ -1,5 +1,5 @@
 {
-  "actualizadoEl": "2026-10-28T15:54:21.944Z",
+  "actualizadoEl": "2026-10-28T20:56:09.723Z",
   "total": 1338,
   "productos": [
     {
@@ -6464,7 +6464,7 @@
       "handle": "ce-hsenontrol-para-frikko-aire-acondicionado",
       "url": "https://controlexpert.com.mx/products/ce-hsenontrol-para-frikko-aire-acondicionado",
       "precio": 100,
-      "disponible": true,
+      "disponible": false,
       "stock": null,
       "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-HSEN_1.jpg?v=1749058319",
       "tipo": "Control Remoto",
