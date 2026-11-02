@@ -1,5 +1,5 @@
 {
-  "actualizadoEl": "2026-11-02T15:31:17.278Z",
+  "actualizadoEl": "2026-11-02T23:24:50.380Z",
   "total": 1338,
   "productos": [
     {
@@ -12943,7 +12943,7 @@
       "handle": "ce-dc4ontrol-para-decodificadorontrol-expert",
       "url": "https://controlexpert.com.mx/products/ce-dc4ontrol-para-decodificadorontrol-expert",
       "precio": 190,
-      "disponible": true,
+      "disponible": false,
       "stock": null,
       "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-DC4_11.jpg?v=1749059659",
       "tipo": "Control Remoto",
