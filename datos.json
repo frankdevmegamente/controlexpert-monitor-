@@ -1,5 +1,5 @@
 {
-  "actualizadoEl": "2026-11-03T14:58:50.728Z",
+  "actualizadoEl": "2026-11-03T20:55:26.118Z",
   "total": 1338,
   "productos": [
     {
@@ -5023,7 +5023,7 @@
       "handle": "ce-u1514ontrol-universal-para-pantalla-smart-tv",
       "url": "https://controlexpert.com.mx/products/ce-u1514ontrol-universal-para-pantalla-smart-tv",
       "precio": 100,
-      "disponible": true,
+      "disponible": false,
       "stock": null,
       "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-U1514_2.jpg?v=1749058051",
       "tipo": "Control Remoto",
