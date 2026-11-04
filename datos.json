@@ -1,5 +1,5 @@
 {
-  "actualizadoEl": "2026-11-03T20:55:26.118Z",
+  "actualizadoEl": "2026-11-04T01:12:10.806Z",
   "total": 1338,
   "productos": [
     {
@@ -3197,7 +3197,7 @@
       "handle": "ce-ws790ombo-teclado-y-mouse-alambrico-usb",
       "url": "https://controlexpert.com.mx/products/ce-ws790ombo-teclado-y-mouse-alambrico-usb",
       "precio": 199,
-      "disponible": true,
+      "disponible": false,
       "stock": null,
       "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-WS790.jpg?v=1775592404",
       "tipo": "Hogar",
