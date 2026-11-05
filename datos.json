@@ -1,5 +1,5 @@
 {
-  "actualizadoEl": "2026-11-05T15:21:10.972Z",
+  "actualizadoEl": "2026-11-05T21:54:08.733Z",
   "total": 1338,
   "productos": [
     {
@@ -238,7 +238,7 @@
       "handle": "kit-de-teclado-y-mouse-alambricos-control-expert-ce-ws790",
       "url": "https://controlexpert.com.mx/products/kit-de-teclado-y-mouse-alambricos-control-expert-ce-ws790",
       "precio": 299,
-      "disponible": true,
+      "disponible": false,
       "stock": null,
       "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-WS790_2_d68a13db-8018-4cca-af25-69cd6c2df249.jpg?v=1784069388",
       "tipo": "",
