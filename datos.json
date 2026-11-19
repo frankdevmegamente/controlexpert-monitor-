@@ -1,5 +1,5 @@
 {
-  "actualizadoEl": "2026-11-19T12:47:09.963Z",
+  "actualizadoEl": "2026-11-19T21:20:30.159Z",
   "total": 1338,
   "productos": [
     {
@@ -1118,7 +1118,7 @@
       "handle": "lg-monitor-curvo-myview-smart-34-100hz-wqhd-34sr60qc-b-3440-x-1440-ethernet-usb-tipo-a-1440p-con-webos",
       "url": "https://controlexpert.com.mx/products/lg-monitor-curvo-myview-smart-34-100hz-wqhd-34sr60qc-b-3440-x-1440-ethernet-usb-tipo-a-1440p-con-webos",
       "precio": 6499,
-      "disponible": true,
+      "disponible": false,
       "stock": null,
       "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/34SR60QCcopia.jpg?v=1768952883",
       "tipo": "",
@@ -2174,7 +2174,7 @@
       "handle": "control-remoto-compatible-con-jvc-roku-tv-smart-tv-disney-hbo-max",
       "url": "https://controlexpert.com.mx/products/control-remoto-compatible-con-jvc-roku-tv-smart-tv-disney-hbo-max",
       "precio": 229,
-      "disponible": true,
+      "disponible": false,
       "stock": null,
       "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/RC-HBMX-J_1.jpg?v=1749057370",
       "tipo": "",
