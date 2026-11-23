@@ -1,5 +1,5 @@
 {
-  "actualizadoEl": "2026-11-23T10:37:12.683Z",
+  "actualizadoEl": "2026-11-23T22:31:49.172Z",
   "total": 1338,
   "productos": [
     {
@@ -3285,7 +3285,7 @@
       "handle": "ce-ntc34able-usb-a-usbarga-y-datos-1-metro-2-blanco",
       "url": "https://controlexpert.com.mx/products/ce-ntc34able-usb-a-usbarga-y-datos-1-metro-2-blanco",
       "precio": 79,
-      "disponible": true,
+      "disponible": false,
       "stock": null,
       "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/Diseno_sin_titulo_10.png?v=1750454911",
       "tipo": "Hogar",
