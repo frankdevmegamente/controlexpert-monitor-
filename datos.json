@@ -1,5 +1,5 @@
 {
-  "actualizadoEl": "2026-11-25T12:40:07.851Z",
+  "actualizadoEl": "2026-11-25T22:21:41.126Z",
   "total": 1338,
   "productos": [
     {
@@ -2669,7 +2669,7 @@
       "handle": "soporte-para-monitor-de-15-a-27-pulgadas-de-brazo-movible",
       "url": "https://controlexpert.com.mx/products/soporte-para-monitor-de-15-a-27-pulgadas-de-brazo-movible",
       "precio": 449,
-      "disponible": false,
+      "disponible": true,
       "stock": null,
       "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-1MON_1.jpg?v=1749057442",
       "tipo": "Hogar",
@@ -9433,7 +9433,7 @@
       "titulo": "Pila Para Bocinas Recargable Voltaje 7.4 2500 mAh",
       "handle": "ce-2500-pila-para-bocinas-recargable-voltaje-7-4-2500-mah",
       "url": "https://controlexpert.com.mx/products/ce-2500-pila-para-bocinas-recargable-voltaje-7-4-2500-mah",
-      "precio": 199,
+      "precio": 159,
       "disponible": true,
       "stock": null,
       "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-2500_7.jpg?v=1749058993",
@@ -9444,7 +9444,7 @@
       "titulo": "Pila Para Bocinas Recargable Voltaje 3.7 1800 mAh",
       "handle": "ce-1800-pila-para-bocinas-recargable-voltaje-3-7-1800-mah",
       "url": "https://controlexpert.com.mx/products/ce-1800-pila-para-bocinas-recargable-voltaje-3-7-1800-mah",
-      "precio": 119,
+      "precio": 156,
       "disponible": true,
       "stock": null,
       "imagen": "https://cdn.shopify.com/s/files/1/0705/5776/1752/files/CE-1800_6.jpg?v=1749058994",
